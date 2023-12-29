@@ -10,7 +10,8 @@ Discord: https://discordapp.com/users/688997978391969873
 ======Cách tra cứu giá trị "__Secure-1PSID_TOKEN" và "__Secure-1PSIDTS_TOKEN" ========
 1. Vào bard.google.com 
 2. Trên bàn phím nhấn F12 để vào chế độ kiểm tra thành phần
-3. Vào Ứng dụng (Application) rồi vào phần Cookie    ![Alt text](image.png)
+3. Vào Ứng dụng (Application) rồi vào phần Cookie
+    ![Alt text](image.png)
         
 
    
