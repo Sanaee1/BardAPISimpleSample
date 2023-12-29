@@ -6,18 +6,21 @@ My info: https://github.com/Sanaee1
 
 Discord: https://discordapp.com/users/688997978391969873
 
-===============HOW TO USE=====================
-1. Cài đặt thư viện
-pip install -r requirement.txt để tải về các thư viện cần thiết
-2. Nhập vào các giá trị cho "__Secure-1PSID_TOKEN" và "__Secure-1PSIDTS_TOKEN" trong file .env
 
 ======Cách tra cứu giá trị "__Secure-1PSID_TOKEN" và "__Secure-1PSIDTS_TOKEN" ========
 1. Vào bard.google.com 
 2. Trên bàn phím nhấn F12 để vào chế độ kiểm tra thành phần
-3. Vào Ứng dụng (Application) rồi vào phần Cookie
-    ![Alt text](image.png)
+3. Vào Ứng dụng (Application) rồi vào phần Cookie    ![Alt text](image.png)
+        
 
-4. Tìm các giá trị của "__Secure-1PSID" và "__Secure-1PSIDTS" và dán giá trị tương ứng vào trong file .env
+   
+
+5. Tìm các giá trị của "__Secure-1PSID" và "__Secure-1PSIDTS" và dán giá trị tương ứng vào trong file .env
 ======================================================================================
 
+
+===============HOW TO USE=====================
+1. Cài đặt thư viện
+pip install -r requirement.txt để tải về các thư viện cần thiết
+2. Nhập vào các giá trị cho "__Secure-1PSID_TOKEN" và "__Secure-1PSIDTS_TOKEN" trong file .env
 3. Chạy file main.py
