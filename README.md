@@ -1,3 +1,5 @@
+###For education purpose###
+
 Cre: https://github.com/dsdanielpark/Bard-API
 
 Tài liệu tham khảo: https://github.com/dsdanielpark/Bard-API/blob/main/documents/README_DEV.md
